@@ -28,3 +28,6 @@ To remove the extension:
 Go to chrome://extensions/.
 
 Find the extension and click Remove.
+
+## Known issues and bugs
+Having the extension enabled may cause formatting issues on some websites. To fix, just disable the translator on these sites. You can do this by opening the extension and toggling the extension enabled toggle to off.
