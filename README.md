@@ -1,6 +1,19 @@
 # Immersed Chrome Extension
 This is a Chrome extension that replaces words on websites with translations to help language learning.
 
+## Features
+- Choose target language
+- Select number of words to replace
+- Supports multiple languages
+
+  
+## Languages Supported
+- Spanish
+- French
+- German
+- Italian
+- Japanese
+
 ## Installation Instructions
 To install the extension, follow these steps:
 
@@ -29,5 +42,10 @@ Go to chrome://extensions/.
 
 Find the extension and click Remove.
 
+## Roadmap
+- Add more languages
+- Integrate professional translation API
+- Allow custom word lists
+
 ## Known issues and bugs
-Having the extension enabled may cause formatting issues on some websites. To fix, just disable the translator on these sites. You can do this by opening the extension and toggling the extension enabled toggle to off.
+- Having the extension enabled may cause formatting issues on some websites. To fix, just disable the translator on these sites. You can do this by opening the extension and toggling the extension enabled toggle to off.
